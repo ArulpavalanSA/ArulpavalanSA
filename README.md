@@ -1,36 +1,64 @@
-## 👋 Hello! I'm Arul
+<h1 align="center">Hi there, I'm Arul 👋</h1>
 
-I'm a first-year Electrical and Electronics Engineering (EEE) student at NIT Trichy, passionate about embedded systems, electronics design, and applied engineering.
-
-I enjoy building systems that blend hardware and software — from microcontrollers to sensors, PCBs to signal processing. I strongly believe in learning by doing and documenting every step of the journey.
-
----
-
-### 🔧 Current Focus Areas
-- Embedded development using **STM32 (STM32F4 & Blue Pill boards)**  
-- Sensor fusion, state estimation, and Kalman filtering for real-time applications  
-- PCB design using **KiCad** for custom electronics  
-- Strengthening my core in circuits, control systems, and signal processing
+<p align="center">
+  🎓 EEE Student | ⚡ Embedded Systems | 🛠️ Fusion 360 CAD | 💡 DIY Learner
+</p>
 
 ---
 
-### 🚀 Projects & Learning
-- Developing apogee detection and recovery systems for high-altitude model rockets  
-- Interfacing modules like **ADXL345**, **Neo-6M GPS**, **DSP310 barometer**  
-- Designing a **buck converter** using **TLV62569ADRL** and simulating it for real-world loads
+## 🧑‍💻 About Me
+
+- 🎓 1st Year Electrical and Electronics Engineering (EEE) student at **NIT Trichy**
+- 👨‍🔬 Passionate about electronics, embedded systems, digital design, and CAD modeling
+- 🧠 Love learning by building — from custom PCBs to real-time data loggers
+- ✨ Exploring everything from **STM32**, **Arduino**, **Verilog**, to **Fusion 360**
 
 ---
 
-### 🎯 Goals
-- Build a strong foundation in electronics and embedded design  
-- Contribute to open-source hardware/software projects  
-- Maintain a balance between academics and hands-on exploration  
+## 🚀 Featured Projects
+
+### 🔩 [Fusion360-CAD-Projects](https://github.com/ArulpavalanSA/Fusion360-CAD-Projects)
+> 3D modeling tasks using Fusion 360 and SolidWorks, replicating real mechanical parts with section views and dimensioning.
+
+### 🌐 [GPS-Data-Logger-using-STM32](https://github.com/ArulpavalanSA/GPS-Data-Logger-using-STM32)
+> Real-time GPS and sensor data acquisition using STM32F4 and NEO-6M module with DMA + USART.
+
+### 🌱 [Environmental Data Logger (Arduino)](https://github.com/ArulpavalanSA/Environmental-Data-Logger-Using-BMP280-BH1750-LCD-SD-Card-Arduino)
+> Sensor fusion project using BMP280 + BH1750 to log and display environment data on LCD and SD card.
+
+### 🧠 [Digital Logic Design](https://github.com/ArulpavalanSA/Digital-Logic-Design-Projects)
+> Simulation and documentation of digital logic circuits (gates, adders, counters) designed using Verilog and simulation tools.
+
+### ❤️ [pulse-sensor-oled-pcb](https://github.com/ArulpavalanSA/pulse-sensor-oled-pcb)
+> Custom PCB using MAX30102, SSD1306 OLED and buttons — designed in KiCad.
 
 ---
 
-### 📫 Connect with Me
-- Email: `arulpavalansa@gmail.com`
-- LinkedIn: [[linkedin.com/in/yourusername](https://www.linkedin.com/in/arulpavalan-s-a-7469932a1/)]
+## 🛠️ Tech & Tools
 
+- Languages: `C`, `Embedded C`, `Verilog HDL`
+- Hardware: `STM32`, `Arduino`, `Sensors`, `Modules`
+- Tools: `Fusion 360`, `SolidWorks`, `KiCad`, `Proteus`, `TinkerCAD`
+- Software: `VS Code`, `STM32CubeIDE`, `GitHub`, `MATLAB`
 
-> “Small consistent steps lead to big results. Keep building, keep learning.” 💡
+---
+
+## 📌 Currently Learning
+
+- 📈 Sensor fusion (Kalman Filter)
+- 🌀 PID control for rockets (GNC systems)
+- ✍️ Professional CAD drawing practices
+- 🧪 Verilog-based digital system modeling
+
+---
+
+## 🤝 Let’s Connect
+
+- 📬 [GitHub Repos](https://github.com/ArulpavalanSA?tab=repositories)
+- ✍️ Open to collab on embedded or CAD projects!
+
+---
+
+<p align="center">
+  🚀 Let’s learn. Let’s build. Let’s grow. 💙
+</p>
